@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet type ="text/css" href="styles.css"?>
+<students>
+<student>
+<USN>USN:4VV16CS064</USN>
+<name>nisarga</name>
+<clg>vvce</clg>
+<branch>7th</branch>
+<start>2016</start>
+<mail>nisarga@gmail.com</mail>
+</student>
+
+<student>
+<USN>USN:4VV16CS047</USN>
+<name>keerthi</name>
+<clg>vvce</clg>
+<branch>7th</branch>
+<start>2016</start>
+<mail>devil@gmail.com</mail>
+</student>
+
+
+<student>
+<USN>USN:4VV16CS657</USN>
+<name>shalger</name>
+<clg>vvce</clg>
+<branch>5th</branch>
+<start>2017</start>
+<mail>abhi@gmail.com</mail>
+</student>
+</students>
+
